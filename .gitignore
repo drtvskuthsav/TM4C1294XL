@@ -1,0 +1,12 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+
+
+
