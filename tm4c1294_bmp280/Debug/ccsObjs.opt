@@ -1,0 +1,1 @@
+"./bmp280.obj" "./main.obj" "./tm4c1294ncpdt_startup_ccs.obj" "../tm4c1294ncpdt.cmd" -llibc.a -l"D:/TM4C1294/sensorlib/Debug/sensorlib.lib" -l"D:/TM4C1294/driverlib/Debug/driverlib.lib" 
